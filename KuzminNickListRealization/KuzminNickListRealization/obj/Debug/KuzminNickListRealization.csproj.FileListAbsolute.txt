@@ -1,6 +1,0 @@
-c:\users\nick\documents\visual studio 2013\Projects\KuzminNickListRealization\KuzminNickListRealization\bin\Debug\KuzminNickListRealization.exe.config
-c:\users\nick\documents\visual studio 2013\Projects\KuzminNickListRealization\KuzminNickListRealization\obj\Debug\KuzminNickListRealization.csprojResolveAssemblyReference.cache
-c:\users\nick\documents\visual studio 2013\Projects\KuzminNickListRealization\KuzminNickListRealization\bin\Debug\KuzminNickListRealization.exe
-c:\users\nick\documents\visual studio 2013\Projects\KuzminNickListRealization\KuzminNickListRealization\bin\Debug\KuzminNickListRealization.pdb
-c:\users\nick\documents\visual studio 2013\Projects\KuzminNickListRealization\KuzminNickListRealization\obj\Debug\KuzminNickListRealization.exe
-c:\users\nick\documents\visual studio 2013\Projects\KuzminNickListRealization\KuzminNickListRealization\obj\Debug\KuzminNickListRealization.pdb

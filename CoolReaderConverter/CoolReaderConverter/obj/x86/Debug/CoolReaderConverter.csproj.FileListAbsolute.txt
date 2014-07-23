@@ -1,0 +1,7 @@
+c:\users\nickpc\documents\visual studio 2010\Projects\CoolReaderConverter\CoolReaderConverter\bin\Debug\CoolReaderConverter.exe
+c:\users\nickpc\documents\visual studio 2010\Projects\CoolReaderConverter\CoolReaderConverter\bin\Debug\CoolReaderConverter.pdb
+c:\users\nickpc\documents\visual studio 2010\Projects\CoolReaderConverter\CoolReaderConverter\obj\x86\Debug\CoolReaderConverter.FormConverter.resources
+c:\users\nickpc\documents\visual studio 2010\Projects\CoolReaderConverter\CoolReaderConverter\obj\x86\Debug\CoolReaderConverter.Properties.Resources.resources
+c:\users\nickpc\documents\visual studio 2010\Projects\CoolReaderConverter\CoolReaderConverter\obj\x86\Debug\CoolReaderConverter.csproj.GenerateResource.Cache
+c:\users\nickpc\documents\visual studio 2010\Projects\CoolReaderConverter\CoolReaderConverter\obj\x86\Debug\CoolReaderConverter.exe
+c:\users\nickpc\documents\visual studio 2010\Projects\CoolReaderConverter\CoolReaderConverter\obj\x86\Debug\CoolReaderConverter.pdb
