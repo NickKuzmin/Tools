@@ -1,0 +1,12 @@
+.Absolute-Center {
+    width: 77%;
+    overflow: auto;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+#container{width:775px; margin: 0 auto 0 auto; background: red}
+
+#headerPan{width:775px; height:345px; position:relative; background:url(./images/MainLogo.png) 0 0 no-repeat}
+#headerPan img#logo{position:absolute; top:20px; left:106px}
+#headerPan img#slogan{position:absolute; top:218px; left:303px}
